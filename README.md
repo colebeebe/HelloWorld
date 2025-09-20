@@ -14,5 +14,5 @@ This was created in C# using OpenTK (bindings for OpenGL and other related libra
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [LearnOpenGL](http://learnopengl.com)
+
